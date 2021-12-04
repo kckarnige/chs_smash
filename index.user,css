@@ -8,7 +8,7 @@
 ==/UserStyle== */
 @-moz-document domain("discord.com") {
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://goose-nest.github.io/GT-RevertRebrand/src/main.css');
     .appMount-3lHmkl {
         background-position: 0% 20% !important; 
         background-size: 125%;
@@ -74,19 +74,5 @@
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
 --reaction-emoji-hover-border-color: #ffffff33;
---rs-small-spacing: 2px;
---rs-medium-spacing: 3px;
---rs-large-spacing: 4px;
---rs-small-width: 2px;
---rs-medium-width: 3px;
---rs-large-width: 4px;
---rs-avatar-shape: 50%;
---rs-online-color: #43b581;
---rs-idle-color: #faa61a;
---rs-dnd-color: #f04747;
---rs-offline-color: #636b75;
---rs-streaming-color: #643da7;
---rs-invisible-color: #747f8d;
---rs-phone-visible: block;
 }
 }
