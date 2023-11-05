@@ -14,4 +14,4 @@
 
 <h1></h1>
 
-### [| Built with Limeshark Discord Theme Editor |](https://limeshark.dev/editor/)
+### | Built with [REDACTED] |]
