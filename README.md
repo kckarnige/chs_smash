@@ -14,4 +14,4 @@
 
 <h1></h1>
 
-### | Built with [REDACTED] |]
+### | Built with [REDACTED] Discord Theme Editor |
